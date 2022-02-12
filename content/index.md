@@ -5,12 +5,12 @@
 # REQUIRED
 
 # The title of the document
-title = "Welcome to Bartholomew"
+title = "ncolesummers.com"
 
 # OPTIONAL
 
 # The description of the page.
-description = "The Micro-CMS for Wagi"
+description = "contaiNERD and WASM dev"
 
 # The name of the template to use. `templates/` is automatically prepended, and `.hbs` is appended.
 # So if you set this to `blog`, it becomes `templates/blog.hbs`.
@@ -19,11 +19,11 @@ description = "The Micro-CMS for Wagi"
 # These fields are user-definable. You can create whatever values you want
 # here. The format must be `string` keys with `string` values, though.
 [extra]
-date = "Nov. 15, 2021"
+date = "Feb. 11, 2022"
 
 # Anything after this line is considered Markdown content
 ---
 
-This is an example home page written in _Markdown_.
+👋 Hello, I'm Nathan Summers, and welcome to my blog!  
 
-You can find this text in `content/index.md`.
+
