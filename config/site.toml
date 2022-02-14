@@ -1,10 +1,11 @@
 title = "ncolesummers.com"
 # logo = "URL to logo"
-base_url = "http://localhost:3000"
-about = "This site was created using bartholomew, the micro-CMS delivered as a WASM module and served by WAGI.  While WASM has been speeding up JS for some time now, server-side WASM is still experimental."
+base_url = "http://0.0.0.0:3000"
+about = "This site was created using bartholomew, a micro-CMS that compiles to WebAssembly"
 
 [extra]
 copyright = "N. Cole Summers 2022"
 github = "https://github.com/ncolesummers"
+linkedin = "https://www.linkedin.com/in/n-cole-summers/"
 twitter = "https://twitter.com/ncolesummers"
 instagram = "https://instagram.com/ncolesummers"

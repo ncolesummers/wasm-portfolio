@@ -14,7 +14,7 @@ description = "contaiNERD and WASM dev"
 
 # The name of the template to use. `templates/` is automatically prepended, and `.hbs` is appended.
 # So if you set this to `blog`, it becomes `templates/blog.hbs`.
-# template = "
+# template = ""
 
 # These fields are user-definable. You can create whatever values you want
 # here. The format must be `string` keys with `string` values, though.
